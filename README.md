@@ -1,2 +1,3 @@
 # Movie-Sentiment-Review
 NLP based sentiment analysis for Movie Reviews
+in-depth analysis of IMDB Movie Review Sentiment Analysis Using BERT, an unstructured data classification project aimed at automating sentiment categorization of movie reviews. The primary objective is to leverage state-of-the-art Natural Language Processing (NLP) techniques to classify reviews as positive or negative, ensuring high accuracy, scalability, and interpretability. BERT (Bidirectional Encoder Representations from Transformers) was chosen for its superior contextual understanding, making it an ideal model for handling complex linguistic structures, including sarcasm and negation.
